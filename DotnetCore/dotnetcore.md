@@ -2,3 +2,4 @@
 * [ASP.NET Core 2.0 使用支付宝PC网站支付](https://www.cnblogs.com/stulzq/p/7606164.html)
 * [学习ASP.NET Core Razor 编程系列一](https://www.cnblogs.com/chillsrc/p/8579777.html)  有出书
 * [ASP.NET Core WebAPI 开发-新建WebAPI项目](https://www.cnblogs.com/linezero/p/5497472.html) 有出书
+* [使用 ASP.NET Core MVC 创建 Web API（一）](https://www.cnblogs.com/chillsrc/p/10614598.html)
