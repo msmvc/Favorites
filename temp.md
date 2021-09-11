@@ -25,3 +25,16 @@ https://blog.csdn.net/weixin_39842937/article/details/111551931?utm_medium=distr
 https://github.com/tidyjiang8/esp-idf-zh
 https://blog.csdn.net/tidyjiang/article/details/71520396?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1332042.22444.16193133274597079&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
 https://blog.csdn.net/wangym307/article/details/83576791
+
+https://www.jb51.net/books/655954.html
+
+https://www.jb51.net/books/417014.html
+
+https://www.jb51.net/books/685626.html
+
+https://www.jb51.net/books/674351.html
+
+https://www.jb51.net/books/44151.html
+
+https://yyidc.guiren21.com/201205/books/excelvba_jb51.rar
+https://d99idc.jb51.net/201601/books/excelvbabcbd(jb51.net).rar
