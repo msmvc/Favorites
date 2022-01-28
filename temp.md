@@ -38,3 +38,5 @@ https://www.jb51.net/books/44151.html
 
 https://yyidc.guiren21.com/201205/books/excelvba_jb51.rar
 https://d99idc.jb51.net/201601/books/excelvbabcbd(jb51.net).rar
+
+http://jiankongshexiangtou.com/jinggang/guanyu.html
