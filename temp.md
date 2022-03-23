@@ -40,3 +40,11 @@ https://yyidc.guiren21.com/201205/books/excelvba_jb51.rar
 https://d99idc.jb51.net/201601/books/excelvbabcbd(jb51.net).rar
 
 http://jiankongshexiangtou.com/jinggang/guanyu.html
+
+
+C#自定义控件
+https://wenku.baidu.com/view/bb48f2f477a20029bd64783e0912a21614797fa1.html
+https://www.cnblogs.com/yangfengwu/p/5956841.html
+https://www.cnblogs.com/bfyx/p/11361894.html
+https://blog.csdn.net/cxu123321/article/details/91652763
+
